@@ -8,15 +8,21 @@ This module provides a comprehensive introduction to the field of data mining, f
 ### Key topics include:
 
 1)Data representation, acquisition, and storage
-2)Visualization techniques and exploratory data analysis
-3)Machine learning techniques (classification, regression, clustering)
-4)Frequent pattern mining and anomaly detection
-5)Real-world applications of data mining
-6)Ethical and policy issues related to data use
-7)Learning Outcomes
-8)By the end of this module, you will be able to:
 
-### Select appropriate data representations for specific problems.
+2)Visualization techniques and exploratory data analysis
+
+3)Machine learning techniques (classification, regression, clustering)
+
+4)Frequent pattern mining and anomaly detection
+
+5)Real-world applications of data mining
+
+6)Ethical and policy issues related to data use
+
+### Learning Outcomes
+By the end of this module, you will be able to:
+
+Select appropriate data representations for specific problems.
 Apply data pre-processing and cleaning methods for both numerical and categorical data.
 Use data summarization and visualization techniques to gain insights from datasets.
 Understand the distinctions between various data mining tasks (classification, regression, clustering, association rules, outlier detection) and select appropriate methods.
